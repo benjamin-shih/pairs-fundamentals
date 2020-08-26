@@ -1,1 +1,1 @@
-# pairs-fundamentals
+# Pair Fundamental Analysis
